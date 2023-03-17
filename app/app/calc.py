@@ -4,7 +4,7 @@ Calculator functions
 
 
 def add(x, y):
-    """Add x and y ad return results."""
+    """Add x and y and return results."""
     return x + y
 
 
