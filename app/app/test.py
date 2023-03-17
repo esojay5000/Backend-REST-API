@@ -8,7 +8,7 @@ from app import calc
 
 
 class CalcTests(SimpleTestCase):
-    """Test the calc module"""
+    """Test the calc module as am example"""
 
     def test_add_numbers(self):
         """Test adding numbers together."""
